@@ -25,14 +25,10 @@
 ---
 
 ## ⚡ Cara Pakai
-1. Clone repository:
-   ```bash
-   git clone https://github.com/username/photobooth-app.git
-  ```
-2. Buka file index.html di browser favoritmu
-3. Berikan akses webcam saat diminta
-4. Pilih efek, overlay, dan background sesuka hati
-5. Klik Take Photos → simpan hasilnya dengan Save
+1. Buka file index.html di browser favoritmu
+2. Berikan akses webcam saat diminta
+3. Pilih efek, overlay, dan background sesuka hati
+4. Klik Take Photos → simpan hasilnya dengan Save
 
 📝 Lisensi
 
